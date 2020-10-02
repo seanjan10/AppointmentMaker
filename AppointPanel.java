@@ -60,7 +60,7 @@ public class AppointPanel extends JPanel {
 				confirm.setVisible(false);
 				timeAvail.setVisible(false);
 				
-				sched.setText("Thank you, an email reminder has been sent to your email. We'll see you then!");
+				sched.setText("Thank you, an appointment reminder has been sent to your email. We'll see you then!");
 				} catch (Exception err){
 					
 				}
